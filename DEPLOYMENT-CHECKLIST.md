@@ -15,9 +15,9 @@
 ## 📋 GitHub Repository Setup Steps
 
 ### Step 1: Create Repository on GitHub
-1. **Go to**: https://github.com/priyanka8-sys
+1. **Go to**: https://github.com/mohitshekhar8052
 2. **Click**: "+" button → "New repository"
-3. **Repository name**: `Priyanka-Portfolio`
+3. **Repository name**: `Priyanka-portfolio`
 4. **Description**: `Modern, responsive portfolio website for Priyanka Singh Sengar - Computer Science Student & Developer`
 5. **Visibility**: Public ✅
 6. **Initialize**: 
@@ -41,8 +41,8 @@ After creating the repository, run:
 6. Wait 2-3 minutes for deployment
 
 ## 🌐 Final URLs
-- **Repository**: https://github.com/priyanka8-sys/Priyanka-Portfolio
-- **Live Site**: https://priyanka8-sys.github.io/Priyanka-Portfolio
+- **Repository**: https://github.com/mohitshekhar8052/Priyanka-portfolio
+- **Live Site**: https://mohitshekhar8052.github.io/Priyanka-portfolio
 
 ## 🎯 Post-Deployment Actions
 - [ ] Test live website on multiple devices
