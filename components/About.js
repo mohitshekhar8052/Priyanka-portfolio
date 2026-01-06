@@ -32,7 +32,7 @@ export default function About() {
             <div className="about-content-box">
               <h3 className="about-heading">Passionate Computer Science Student</h3>
               <p className="about-paragraph">
-                I'm a dedicated Computer Science student at <span className="highlight">Maharana Pratap Engineering College</span> with a passion for 
+                I&apos;m a dedicated Computer Science student at <span className="highlight">Maharana Pratap Engineering College</span> with a passion for 
                 technology and software development. My journey in programming started with curiosity and has evolved 
                 into a strong foundation across multiple programming languages and technologies.
               </p>
