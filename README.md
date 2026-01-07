@@ -4,7 +4,7 @@ A modern, responsive portfolio website showcasing the work and skills of Priyank
 
 ## 🚀 Live Demo
 
-Visit the portfolio: [Priyanka's Portfolio](https://mohitshekhar8052.github.io/Priyanka-portfolio)
+Visit the portfolio: [Priyanka's Portfolio](https://priyanka-portfolio-pi.vercel.app)
 
 ## ✨ Features
 
